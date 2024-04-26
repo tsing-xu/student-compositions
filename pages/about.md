@@ -12,7 +12,6 @@ credits: true
 {% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Frank B. Robinson at the Organ" %}
 
 ## About the Collection
-
 This is a a collection of contemporary music compositions with religious themes:
 - by Qing Xu
 - by Hongwei Cai
